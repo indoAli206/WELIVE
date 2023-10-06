@@ -3,10 +3,15 @@
    <title>ajudeacausaindoaliforever</title>
   </head>
   <body>
+    <style>
+         body{
+      background-color:purple;
+    </style>
+
    <fieldset>
      <legend>CADASTRAR</legend>
         <input type="text" placeholder="usuario">
    </fieldset>
   </body>
      </html>
-     
+    
