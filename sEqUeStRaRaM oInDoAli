@@ -1,10 +1,12 @@
 <html>
   <head>
-    <title>reddeadcomments</title>
+    <title>RedDeadOnline</title>
   </head>
   <style>
     body{
-      background-color:purple;
+      background-image:url("https://assets.xboxservices.com/assets/f2/09/f2093a9f-81ef-4ddd-9128-7e409ab3e6ad.jpg?n=Red-Dead-Redemption-II_GLP-Page-Hero-1084_1920x1080.jpg;
+      color:red;
+      font-family:arial;
     }
   </style>
   <body>
